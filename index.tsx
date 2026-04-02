@@ -740,10 +740,10 @@ const Contact = () => {
                   <a href="https://github.com/mahbubtechsavvy" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-slate-400 hover:bg-primary hover:text-white hover:border-primary transition-all">
                     <Github size={18} />
                   </a>
-                  <a href="https://linkedin.com/in/mdmahbuburrahman" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-slate-400 hover:bg-primary hover:text-white hover:border-primary transition-all">
+                  <a href="https://linkedin.com/in/mahbubtechsavvy" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-slate-400 hover:bg-primary hover:text-white hover:border-primary transition-all">
                     <Linkedin size={18} />
                   </a>
-                  <a href="https://facebook.com/mdmahbuburrahman" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-slate-400 hover:bg-primary hover:text-white hover:border-primary transition-all">
+                  <a href="https://facebook.com/mdmahbuburrahman.me" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-slate-400 hover:bg-primary hover:text-white hover:border-primary transition-all">
                     <Facebook size={18} />
                   </a>
                   <a href="https://youtube.com/@mahbubtechsavvy" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-slate-400 hover:bg-primary hover:text-white hover:border-primary transition-all">
